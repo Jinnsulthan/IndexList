@@ -8,4 +8,4 @@
 - [TamilRockers](http://www.TamilRockerrs.top)
 - [PirateBay](https://www.pirateproxy-bay.com/)
 - [YTS](https://yts.mx)
-- [1337x.hashhackers](https://1337x.hashhackers.com) - It's a proxy site of [1337x.to](https://1337x.to/) made by <b><i>Hashhackers</i></b>
+- [1337x.hashhackers](https://1337x.hashhackers.com) - It's a proxy site of [1337x.to](https://1337x.to/) made by <b><i>Hashhackers</i></b>.....
