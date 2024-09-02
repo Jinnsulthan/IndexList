@@ -10,6 +10,5 @@
 - [YTS](https://yts.mx)
 - [1337x.hashhackers](https://1337x.hashhackers.com) - It's a proxy site of [1337x.to](https://1337x.to/) made by **_Hashhackers_**.
 
-**_NB::: Use VPNs for Accessing the Above Sites...._**
 
-<center>**[Why VPN is needed for accessing torrents?](https://github.com/Jinnsulthan/IndexList/Remember.md)**</center>
+- Use VpN's For Accessing the torrents. [Why VpN's is recommended while using torrents?](https://github.com/Jinnsulthan/IndexList/Remember.md)
