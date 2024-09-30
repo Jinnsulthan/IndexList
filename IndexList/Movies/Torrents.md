@@ -1,7 +1,7 @@
 ⚡️ **Torrents Sites **
 
 - [TorrentGalaxy](https://torrentgalaxy.to/) 
-- <s>[RarBG](https://rarbg.to/) </s> - The torrent Site is RARBG is closed now it's web is used by a Casino.
+- <s>[RarBG](https://rarbg.to/) </s> - <b>The torrent Site is RARBG is closed now it's web is used by a Casino.</b>
 - [1337X](https://1337x.to/)
 - [1tamilmv](https://www.1tamilmv.tf)
 - [1tamilBlasters](https://1tamilblasters.mov/)
