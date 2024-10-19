@@ -18,5 +18,6 @@
 
 
 
+<b> Use Vpn if can't access the sites. Recommend to use 1.1.1.1 or Warp >> For [Android](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone) , For [Windows, Mac](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) </b>
 
-<b> Use Vpn if can't access the sites. Recommend to use 1.1.1.1 or Warp >> For [Android](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone) , For [Windows, Mac](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
+<b> If you have another strong VpN's you can use it. </b>
