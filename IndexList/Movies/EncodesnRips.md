@@ -1,6 +1,6 @@
 ⚡️ **Movie & Series Download Sites (Encodes & Rips)**
 
-- [10bitclub](https://10bitclub.tech)
+- [10bitclub](https://10bitclub.xyz)
 - [Cinemakottaga >> Poolla](https://poolla.one)
 - [PsaRips](https://psa.wf)
 - [Pahe](https://pahe.ink)
