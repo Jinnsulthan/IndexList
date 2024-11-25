@@ -5,3 +5,8 @@
 - [FileCr](https://filecr.com/)
 - [TeamOS](https://www.teamos.xyz/)
 - [HaxMac](https://haxmac.cc/)
+- [OceanofDmg](https://oceanofdmg.com/)
+
+
+
+<b><i> Use above sites according to your OS it includes MacOS, Windows, Linux.</i></b>
