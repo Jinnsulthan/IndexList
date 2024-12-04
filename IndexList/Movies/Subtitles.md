@@ -6,4 +6,4 @@
 
 
 # Download malayalam subtitles 
-- [Msone](https://malayalamsubtitles.org/) - <b>Visit [Telegram](https://telegram.me/msone) , [Instagram](https://instagram.com/msoneofficial) , [Facebook](https://www.facebook.com/MSonePage/) to know more about them.</b>
+- [Msone](https://malayalamsubtitles.org/) - <b> [Msone App for android users](https://play.google.com/store/apps/details?id=com.msone.subtitles)
