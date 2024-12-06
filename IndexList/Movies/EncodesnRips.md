@@ -19,6 +19,6 @@
 
 
 
-<b> Use Vpn if can't access the sites. Recommend to use Proton VpN >> For Android use [Google Play](https://play.google.com/store/apps/details?id=ch.protonvpn.android) or [F-Droid](https://f-droid.org/), For [Windows](https://protonvpn.com/download-windows), [Mac](https://protonvpn.com/download-macos),[Linux](https://protonvpn.com/download-linux)</b>
+<b> Use Vpn if can't access the sites. Recommend to use Proton VpN >> For Android use [Google Play](https://play.google.com/store/apps/details?id=ch.protonvpn.android) or [F-Droid](https://f-droid.org/), For [Windows](https://protonvpn.com/download-windows), [Mac](https://protonvpn.com/download-macos), [Linux](https://protonvpn.com/download-linux)</b>
 
 <b> If you have another strong VpN's you can use it. I use both Proton and Turbo VpN's. </b>
