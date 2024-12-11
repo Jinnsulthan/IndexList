@@ -5,6 +5,7 @@
 - [PsaRips](https://psa.wf)
 - [Pahe](https://pahe.ink)
 - [x265rips](http://x265rips.xyz)
+- [RapidMoviez](http://rapidmoviez.cr)
 - [TgArchive](http://tgarchive.eu.org) or Use [TgArchive Bot](https://telegram.me/TgarchiveeuorgBot) Both were made by <b><i>Hashhackers</i></b>.....
 - [OlaMovies](https://olamovies.hair)
 - [1Flix](https://1flix.to/)
@@ -15,6 +16,7 @@
 - [PMZ](https://privatemoviez.beauty/)
 - [HdHub4u](https://hdhublist.com/)
 - [MkvKing](https://mkvking.com/)
+
 
 
 
